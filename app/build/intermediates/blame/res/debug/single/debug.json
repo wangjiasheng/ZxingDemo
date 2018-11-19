@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "E:\\tempGit\\QRCode-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_testlayout.xml.flat",
+        "source": "E:\\tempGit\\QRCode-master\\android\\app\\src\\main\\res\\layout\\testlayout.xml"
+    },
+    {
+        "merged": "E:\\tempGit\\QRCode-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_search_book_contents_list_item.xml.flat",
+        "source": "E:\\tempGit\\QRCode-master\\android\\qrlib\\build\\intermediates\\packaged_res\\debug\\layout\\search_book_contents_list_item.xml"
+    },
+    {
+        "merged": "E:\\tempGit\\QRCode-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_launcher_icon.png.flat",
+        "source": "E:\\tempGit\\QRCode-master\\android\\app\\src\\main\\res\\drawable-hdpi\\launcher_icon.png"
+    },
+    {
+        "merged": "E:\\tempGit\\QRCode-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_history_list_item.xml.flat",
+        "source": "E:\\tempGit\\QRCode-master\\android\\qrlib\\build\\intermediates\\packaged_res\\debug\\layout\\history_list_item.xml"
+    },
+    {
+        "merged": "E:\\tempGit\\QRCode-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_picker_list_item.xml.flat",
+        "source": "E:\\tempGit\\QRCode-master\\android\\qrlib\\build\\intermediates\\packaged_res\\debug\\layout\\app_picker_list_item.xml"
+    },
+    {
+        "merged": "E:\\tempGit\\QRCode-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_launcher_icon.png.flat",
+        "source": "E:\\tempGit\\QRCode-master\\android\\app\\src\\main\\res\\drawable-xxhdpi\\launcher_icon.png"
+    },
+    {
+        "merged": "E:\\tempGit\\QRCode-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_bookmark_picker_list_item.xml.flat",
+        "source": "E:\\tempGit\\QRCode-master\\android\\qrlib\\build\\intermediates\\packaged_res\\debug\\layout\\bookmark_picker_list_item.xml"
+    },
+    {
+        "merged": "E:\\tempGit\\QRCode-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldpi-v4_capture.xml.flat",
+        "source": "E:\\tempGit\\QRCode-master\\android\\qrlib\\build\\intermediates\\packaged_res\\debug\\layout-ldpi-v4\\capture.xml"
+    },
+    {
+        "merged": "E:\\tempGit\\QRCode-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_search_book_contents.xml.flat",
+        "source": "E:\\tempGit\\QRCode-master\\android\\qrlib\\build\\intermediates\\packaged_res\\debug\\layout\\search_book_contents.xml"
+    },
+    {
+        "merged": "E:\\tempGit\\QRCode-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_help.xml.flat",
+        "source": "E:\\tempGit\\QRCode-master\\android\\qrlib\\build\\intermediates\\packaged_res\\debug\\layout\\help.xml"
+    },
+    {
+        "merged": "E:\\tempGit\\QRCode-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_search_book_contents_header.xml.flat",
+        "source": "E:\\tempGit\\QRCode-master\\android\\qrlib\\build\\intermediates\\packaged_res\\debug\\layout\\search_book_contents_header.xml"
+    },
+    {
+        "merged": "E:\\tempGit\\QRCode-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_capture.xml.flat",
+        "source": "E:\\tempGit\\QRCode-master\\android\\app\\src\\main\\res\\menu\\capture.xml"
+    },
+    {
+        "merged": "E:\\tempGit\\QRCode-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_reactlefttop.png.flat",
+        "source": "E:\\tempGit\\QRCode-master\\android\\qrlib\\build\\intermediates\\packaged_res\\debug\\drawable\\reactlefttop.png"
+    },
+    {
+        "merged": "E:\\tempGit\\QRCode-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_capture.xml.flat",
+        "source": "E:\\tempGit\\QRCode-master\\android\\qrlib\\build\\intermediates\\packaged_res\\debug\\layout\\capture.xml"
+    },
+    {
+        "merged": "E:\\tempGit\\QRCode-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_share.xml.flat",
+        "source": "E:\\tempGit\\QRCode-master\\android\\qrlib\\build\\intermediates\\packaged_res\\debug\\layout\\share.xml"
+    },
+    {
+        "merged": "E:\\tempGit\\QRCode-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_launcher_icon.png.flat",
+        "source": "E:\\tempGit\\QRCode-master\\android\\app\\src\\main\\res\\drawable-xhdpi\\launcher_icon.png"
+    },
+    {
+        "merged": "E:\\tempGit\\QRCode-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_encode.xml.flat",
+        "source": "E:\\tempGit\\QRCode-master\\android\\qrlib\\build\\intermediates\\packaged_res\\debug\\layout\\encode.xml"
+    },
+    {
+        "merged": "E:\\tempGit\\QRCode-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_beep.ogg.flat",
+        "source": "E:\\tempGit\\QRCode-master\\android\\qrlib\\build\\intermediates\\packaged_res\\debug\\raw\\beep.ogg"
+    },
+    {
+        "merged": "E:\\tempGit\\QRCode-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_share.xml.flat",
+        "source": "E:\\tempGit\\QRCode-master\\android\\qrlib\\build\\intermediates\\packaged_res\\debug\\layout-land\\share.xml"
+    },
+    {
+        "merged": "E:\\tempGit\\QRCode-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_reactleftbottom.png.flat",
+        "source": "E:\\tempGit\\QRCode-master\\android\\qrlib\\build\\intermediates\\packaged_res\\debug\\drawable\\reactleftbottom.png"
+    },
+    {
+        "merged": "E:\\tempGit\\QRCode-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_encode.xml.flat",
+        "source": "E:\\tempGit\\QRCode-master\\android\\app\\src\\main\\res\\menu\\encode.xml"
+    },
+    {
+        "merged": "E:\\tempGit\\QRCode-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_history.xml.flat",
+        "source": "E:\\tempGit\\QRCode-master\\android\\app\\src\\main\\res\\menu\\history.xml"
+    },
+    {
+        "merged": "E:\\tempGit\\QRCode-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_share_via_barcode.png.flat",
+        "source": "E:\\tempGit\\QRCode-master\\android\\qrlib\\build\\intermediates\\packaged_res\\debug\\drawable\\share_via_barcode.png"
+    },
+    {
+        "merged": "E:\\tempGit\\QRCode-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
+        "source": "E:\\tempGit\\QRCode-master\\android\\qrlib\\build\\intermediates\\packaged_res\\debug\\xml\\preferences.xml"
+    },
+    {
+        "merged": "E:\\tempGit\\QRCode-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_reactrighttop.png.flat",
+        "source": "E:\\tempGit\\QRCode-master\\android\\qrlib\\build\\intermediates\\packaged_res\\debug\\drawable\\reactrighttop.png"
+    },
+    {
+        "merged": "E:\\tempGit\\QRCode-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_reactrightbottom.png.flat",
+        "source": "E:\\tempGit\\QRCode-master\\android\\qrlib\\build\\intermediates\\packaged_res\\debug\\drawable\\reactrightbottom.png"
+    },
+    {
+        "merged": "E:\\tempGit\\QRCode-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_encode.xml.flat",
+        "source": "E:\\tempGit\\QRCode-master\\android\\qrlib\\build\\intermediates\\packaged_res\\debug\\layout-land\\encode.xml"
+    },
+    {
+        "merged": "E:\\tempGit\\QRCode-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_launcher_icon.png.flat",
+        "source": "E:\\tempGit\\QRCode-master\\android\\app\\src\\main\\res\\drawable\\launcher_icon.png"
+    }
+]
